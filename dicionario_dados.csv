@@ -1,0 +1,13 @@
+﻿Tabela;Campo;Descrição
+dim_obra;id_obra;Chave da obra
+dim_obra;orcamento_total;Orçamento aprovado da obra
+dim_servico;id_servico;Chave do serviço
+dim_servico;categoria;Macroetapa do serviço
+dim_servico;peso_orcamentario;Participação do serviço no orçamento total
+dim_servico;orcamento_servico;Orçamento previsto do serviço
+dim_calendario;data;Chave temporal mensal
+fato_planejamento;valor_previsto_mes;Valor financeiro planejado para o serviço no mês
+fato_planejamento;avanco_previsto_acum_pct;Avanço físico acumulado previsto do serviço
+fato_execucao;custo_realizado_mes;Custo real incorrido no serviço no mês
+fato_execucao;avanco_realizado_acum_pct;Avanço físico acumulado realizado do serviço
+fato_execucao;status_execucao;Perfil sintético: Conforme, Adiantado ou Atrasado

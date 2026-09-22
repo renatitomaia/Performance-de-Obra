@@ -1,0 +1,31 @@
+id_servico,categoria,servico,unidade,peso_orcamentario,mes_inicio_previsto,mes_fim_previsto,orcamento_servico
+1,Serviços Preliminares,Mobilização e canteiro,vb,0.024155,1,2,253623.19
+2,Serviços Preliminares,Locação da obra,vb,0.009662,1,1,101449.28
+3,Fundações,Escavações,m³,0.024155,1,2,253623.19
+4,Fundações,Estacas,m,0.057971,2,3,608695.65
+5,Fundações,Blocos e baldrames,m³,0.043478,2,4,456521.74
+6,Estrutura,Pilares,m³,0.057971,3,7,608695.65
+7,Estrutura,Vigas,m³,0.057971,3,7,608695.65
+8,Estrutura,Lajes,m²,0.086957,4,8,913043.48
+9,Alvenaria,Alvenaria externa,m²,0.043478,5,8,456521.74
+10,Alvenaria,Alvenaria interna,m²,0.038647,5,9,405797.1
+11,Instalações,Infraestrutura elétrica,ponto,0.028986,5,9,304347.83
+12,Instalações,Infraestrutura hidráulica,ponto,0.033816,5,9,355072.46
+13,Instalações,Instalações sanitárias,ponto,0.024155,6,10,253623.19
+14,Cobertura,Estrutura de cobertura,m²,0.033816,7,9,355072.46
+15,Cobertura,Impermeabilização,m²,0.024155,8,10,253623.19
+16,Revestimentos,Chapisco e reboco,m²,0.043478,7,10,456521.74
+17,Revestimentos,Revestimento cerâmico,m²,0.048309,8,11,507246.38
+18,Revestimentos,Pisos,m²,0.048309,8,11,507246.38
+19,Esquadrias,Esquadrias de alumínio,m²,0.038647,8,11,405797.1
+20,Esquadrias,Portas de madeira,un,0.019324,9,11,202898.55
+21,Pintura,Massa corrida,m²,0.024155,9,11,253623.19
+22,Pintura,Pintura interna,m²,0.024155,10,12,253623.19
+23,Pintura,Pintura externa,m²,0.019324,10,12,202898.55
+24,Instalações,Acabamentos elétricos,ponto,0.019324,10,12,202898.55
+25,Instalações,Acabamentos hidráulicos,ponto,0.019324,10,12,202898.55
+26,Acabamentos,Louças e metais,un,0.024155,10,12,253623.19
+27,Acabamentos,Bancadas,m,0.024155,10,12,253623.19
+28,Áreas Externas,Pavimentação externa,m²,0.033816,10,12,355072.46
+29,Áreas Externas,Paisagismo,m²,0.014493,11,12,152173.91
+30,Entrega,Limpeza final e entrega,vb,0.009662,12,12,101449.27
