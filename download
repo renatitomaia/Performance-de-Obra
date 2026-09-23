@@ -1,0 +1,21 @@
+# Power BI
+*.pbix.autosave
+*.pbit
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python / notebooks (caso o projeto seja expandido futuramente)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS / temporários
+*.log
+*.bak
