@@ -1,1 +1,0 @@
-SHOW GLOBAL VARIABLES LIKE 'local_infile';
